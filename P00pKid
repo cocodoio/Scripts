@@ -1,3 +1,5 @@
+I'm hack you profile in github.com! 
+
 cka = game:GetObjects("rbxassetid://390359368")[1]
 --------------------------------------------------- Important
 cka.Parent = game.Players.LocalPlayer.PlayerGui
